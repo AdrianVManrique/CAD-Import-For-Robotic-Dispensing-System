@@ -1,0 +1,44 @@
+Nordson Asymtec Files
+/.exe
+/.dll
+/*.xml
+*.log
+.csv
+log/
+Feedback/
+/.exe.config
+/.trc
+ConfigBackup/
+MotionConfig/
+/DeviceConfig_DISPENSER.ini
+/DeviceConfig_DISPENSER..ini
+/.save.
+/- Copy.
+Scripts/
+/MachineCoordinatorService.InstallLog
+/MachineCoordinatorService.InstallState
+/DeviceConfig_DISPENSER .ini
+/ConfigValidation_DISPENSER.ini
+/DeviceConfig_DISPENSER_bak .ini
+DbConnections.config
+/log.txt
+*.ps1
+.bat
+/Overrides.config
+x86/
+x64/
+/DeviceConfig_DISPENSER.dft
+/*.lnk
+*.firsttime.ps1.done
+*.dll.config
+Data/
+*/bin
+*\bin
+*/obj
+*\obj
+*.sqlite
+*.json
+Capstone/CapGUI2/CapGUI2/.vs/CapstoneProject/v17/.suo
+.vs/CapstoneProject2022/v17/.suo
+*/.vs
+*\.vs
